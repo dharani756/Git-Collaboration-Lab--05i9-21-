@@ -1,1 +1,4 @@
-# Git-Collaboration-Lab--05i9-21-
+Collaborator Details
+Name: <vyshnavi>
+Roll No: <24pa5a0521>
+Role: Collaborator
